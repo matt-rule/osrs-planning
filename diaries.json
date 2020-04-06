@@ -1,0 +1,394 @@
+[
+    {
+        "regionName": "ardougne",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "fishing",
+                "score": 15
+            },
+            {
+                "name": "thieving",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "regionName": "ardougne",
+        "tier": "medium",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 39
+            },
+            {
+                "name": "construction",
+                "score": 10
+            },
+            {
+                "name": "crafting",
+                "score": 49
+            },
+            {
+                "name": "farming",
+                "score": 31
+            },
+            {
+                "name": "firemaking",
+                "score": 50
+            },
+            {
+                "name": "magic",
+                "score": 51
+            },
+            {
+                "name": "ranged",
+                "score": 25
+            },
+            {
+                "name": "strength",
+                "score": 38
+            },
+            {
+                "name": "thieving",
+                "score": 38
+            },
+            {
+                "name": "woodcutting",
+                "score": 36
+            }
+        ]
+    },
+    {
+        "regionName": "ardougne",
+        "tier": "hard",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 56
+            },
+            {
+                "name": "cooking",
+                "score": 53
+            },
+            {
+                "name": "crafting",
+                "score": 50
+            },
+            {
+                "name": "construction",
+                "score": 50
+            },
+            {
+                "name": "farming",
+                "score": 70
+            },
+            {
+                "name": "fishing",
+                "score": 53
+            },
+            {
+                "name": "fletching",
+                "score": 5
+            },
+            {
+                "name": "herblore",
+                "score": 45
+            },
+            {
+                "name": "hunter",
+                "score": 59
+            },
+            {
+                "name": "magic",
+                "score": 66
+            },
+            {
+                "name": "mining",
+                "score": 52
+            },
+            {
+                "name": "prayer",
+                "score": 42
+            },
+            {
+                "name": "ranged",
+                "score": 60
+            },
+            {
+                "name": "runecrafting",
+                "score": 65
+            },
+            {
+                "name": "smithing",
+                "score": 68
+            },
+            {
+                "name": "strength",
+                "score": 50
+            },
+            {
+                "name": "thieving",
+                "score": 72
+            },
+            {
+                "name": "woodcutting",
+                "score": 50
+            }
+        ]
+    },
+    {
+        "regionName": "desert",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "hunter",
+                "score": 5
+            },
+            {
+                "name": "thieving",
+                "score": 21
+            }
+        ]
+    },
+    {
+        "regionName": "falador",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 5
+            },
+            {
+                "name": "construction",
+                "score": 16
+            },
+            {
+                "name": "mining",
+                "score": 10
+            },
+            {
+                "name": "smithing",
+                "score": 13
+            }
+        ]
+    },
+    {
+        "regionName": "fremennik",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "crafting",
+                "score": 23
+            },
+            {
+                "name": "firemaking",
+                "score": 15
+            },
+            {
+                "name": "hunter",
+                "score": 11
+            },
+            {
+                "name": "mining",
+                "score": 20
+            },
+            {
+                "name": "smithing",
+                "score": 20
+            },
+            {
+                "name": "thieving",
+                "score": 5
+            },
+            {
+                "name": "woodcutting",
+                "score": 15
+            }
+        ]
+    },
+    {
+        "regionName": "kandarin",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 20
+            },
+            {
+                "name": "farming",
+                "score": 13
+            },
+            {
+                "name": "fishing",
+                "score": 16
+            }
+        ]
+    },
+    {
+        "regionName": "karamja",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 15
+            },
+            {
+                "name": "mining",
+                "score": 40
+            }
+        ]
+    },
+    {
+        "regionName": "kourend & kebos",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "construction",
+                "score": 25
+            },
+            {
+                "name": "fishing",
+                "score": 20
+            },
+            {
+                "name": "herblore",
+                "score": 12
+            },
+            {
+                "name": "mining",
+                "score": 15
+            },
+            {
+                "name": "thieving",
+                "score": 25
+            }
+        ]
+    },
+    {
+        "regionName": "lumbridge & draynor",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 10
+            },
+            {
+                "name": "firemaking",
+                "score": 15
+            },
+            {
+                "name": "fishing",
+                "score": 15
+            },
+            {
+                "name": "mining",
+                "score": 15
+            },
+            {
+                "name": "runecrafting",
+                "score": 5
+            },
+            {
+                "name": "slayer",
+                "score": 7
+            },
+            {
+                "name": "woodcutting",
+                "score": 15
+            }
+        ]
+    },
+    {
+        "regionName": "morytania",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "cooking",
+                "score": 12
+            },
+            {
+                "name": "crafting",
+                "score": 15
+            },
+            {
+                "name": "farming",
+                "score": 23
+            },
+            {
+                "name": "slayer",
+                "score": 15
+            }
+        ]
+    },
+    {
+        "regionName": "varrock",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 13
+            },
+            {
+                "name": "crafting",
+                "score": 8
+            },
+            {
+                "name": "fishing",
+                "score": 20
+            },
+            {
+                "name": "mining",
+                "score": 15
+            },
+            {
+                "name": "runecrafting",
+                "score": 9
+            },
+            {
+                "name": "thieving",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "regionName": "western provinces",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "fletching",
+                "score": 20
+            },
+            {
+                "name": "hunter",
+                "score": 9
+            },
+            {
+                "name": "mining",
+                "score": 15
+            },
+            {
+                "name": "ranged",
+                "score": 30
+            }
+        ]
+    },
+    {
+        "regionName": "wilderness",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "agility",
+                "score": 15
+            },
+            {
+                "name": "magic",
+                "score": 21
+            },
+            {
+                "name": "mining",
+                "score": 15
+            }
+        ]
+    }
+]

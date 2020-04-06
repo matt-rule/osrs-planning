@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "dotnet",
+            "args": [
+                "run",
+                "-c",
+                "Debug",
+                "${workspaceRoot}/bin/Debug/netcoreapp3.0/osrs-planning.dll",
+            ],
+            "cwd": "${workspaceRoot}",
+            "externalConsole": false,
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart",
+            "logging": {
+                "moduleLoad": false
+            }
+        }
+    ]
+}

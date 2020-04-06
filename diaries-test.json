@@ -1,0 +1,36 @@
+[
+    {
+        "regionName": "ardougne",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "woodcutting",
+                "score": 10
+            }
+        ]
+    },
+    {
+        "regionName": "desert",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "fishing",
+                "score": 12
+            }
+        ]
+    },
+    {
+        "regionName": "falador",
+        "tier": "easy",
+        "requirements": [
+            {
+                "name": "woodcutting",
+                "score": 10
+            },
+            {
+                "name": "fishing",
+                "score": 10
+            }
+        ]
+    }
+]
